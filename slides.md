@@ -1,7 +1,7 @@
 <!------------------------------------------------------------>
 <!-- Topic: xxx -->
 
-<h1>Slide 0</h1>
+<h1>Geographic Feature Detection</h1>
 ![Markdown Image](images/about.png)
 
 --SUBSLIDE--
