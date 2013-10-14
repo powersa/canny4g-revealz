@@ -1,7 +1,8 @@
 <!------------------------------------------------------------>
 <!-- Topic: xxx -->
 
-<h1>Geographic Feature Detection</h1>
+<h1>Read the Edge</h1>
+Raster Edge Detection for Geographic Analysis
 ![Markdown Image](images/about.png)
 
 --SUBSLIDE--
