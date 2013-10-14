@@ -3,7 +3,7 @@
 
 <h1>Read the Edge</h1>
 Raster Edge Detection for Geographic Analysis
-![Markdown Image](images/about.png)
+Andrew Powers, CUGOS Fall Fling 2013
 
 --SUBSLIDE--
 
