@@ -1,9 +1,9 @@
 <!------------------------------------------------------------>
 <!-- Topic: xxx -->
 
-<h1>Read the Edge</h1>
-Raster Edge Detection for Geographic Analysis
-Andrew Powers, CUGOS Fall Fling 2013
+<h1>Following the Edge</h1>
+<br>Raster Edge Detection for Geographic Analysis</br>
+<br>Andrew Powers, CUGOS Fall Fling 2013</br>
 
 --SUBSLIDE--
 
